@@ -22,3 +22,11 @@ NOW the main code is up to date
 and it has no issues in executing.
 thank you
 ..
+Hello here.,
+i have something to update another time
+in here, 
+is the code to calculate your electricity bills
+it will just take your previous readings, current readings, and the rate of per unit electricity 
+and booooom 
+your bill is been genereated.
+thank you.
