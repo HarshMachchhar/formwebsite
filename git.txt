@@ -30,3 +30,15 @@ it will just take your previous readings, current readings, and the rate of per 
 and booooom 
 your bill is been genereated.
 thank you.
+
+<html>
+<head>
+<title>JavaScript Validation</title>
+</head>
+<body>
+<h1>Name<input type="text" id="username"></h1>
+<h2>Password<input type="password" id="password"></h2>
+<button="submit" onclick="submit">
+</button>
+</body>
+</html>
