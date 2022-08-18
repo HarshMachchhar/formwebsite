@@ -5,5 +5,9 @@ here, my codes are written
 There are no other updates of this file.
 once again,
 there are changes in this line and then it was updated.
+<<<<<<< HEAD
 hello there, this is one more thing to be added to this code and now the code is up to date.
 thank you..........
+=======
+hello there, this is the new line added to the whole main code and now it is up to date.
+>>>>>>> eb90cd700a41ebe061c589bca371296f36e241b8
