@@ -1,0 +1,129 @@
+1)
+
+The internet is the global system of interconnected computer networks that uses the internet protocol suit(TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business and government networks of local global scope, linked by a broad array of electronic, wireless and optical networking technologies.
+
+
+>
+There are two main concepts that are fundamental to the way the internet functions: packets and protocols.
+Packets:
+In networking, a packet is a small segment of a larger message. Each packet contains both data and information about that data. The information about the packet's contents is known as the "header," and it goes at the front of the packet so that the receiving machine knows what to do with the packet. To understand the purpose of a packet header, think of how some consumer products come with assembly instructions.
+
+When data gets sent over the Internet, it is first broken up into smaller packets, which are then translated into bits. The packets get routed to their destination by various networking devices such as routers and switches. When the packets arrive at their destination, the receiving device reassembles the packets in order and can then use or display the data.
+
+
+
+While this took a long time for the Statue of Liberty, sending digital information in smaller pieces is extremely fast over the Internet. For instance, a photo of the Statue of Liberty stored on a web server can travel across the world one packet at a time and load on someone's computer within milliseconds.
+
+Packets are sent across the Internet using a technique called packet switching. Intermediary routers and switches are able to process packets independently from each other, without accounting for their source or destination. This is by design so that no single connection dominates the network. If data was sent between computers all at once with no packet switching, a connection between two computers could occupy multiple cables, routers, and switches for minutes at a time. Essentially, only two people would be able to use the Internet at a time — instead of an almost unlimited number of people, as is the case in reality.
+
+Protocols
+Connecting two computers, both of which may use different hardware and run different software, is one of the main challenges that the creators of the Internet had to solve. It requires the use of communications techniques that are understandable by all connected computers, just as two people who grew up in different parts of the world may need to speak a common language to understand each other.
+
+This problem is solved with standardized protocols. In networking, a protocol is a standardized way of doing certain actions and formatting data so that two or more devices are able to communicate with and understand each other.
+
+There are protocols for sending packets between devices on the same network (Ethernet), for sending packets from network to network (IP), for ensuring those packets successfully arrive in order (TCP), and for formatting data for websites and applications (HTTP). In addition to these foundational protocols, there are also protocols for routing, testing, and encryption. And there are alternatives to the protocols listed above for different types of content — for instance, streaming video often uses UDP instead of TCP.
+<
+
+
+What is uri?
+The concept of URL's is familiar to most people. A URL is a web address that is used to direct users to websites ont the internet. The concept of URL's was conceived of by the forefather of the World Wide Web, Tim Berners-Lee. When he first used the term in RFC 1630, he was still speaking of a Universal Resource Identifier. Since then, however, through, among other things, publicaitons by the World Wide Web Consortium (W3C), URL has been established as the acronmy for the Uniform Resource Identifier, and to this day still goes by it. With regard to the original idea, however, nothing has changed.
+
+What is Web?
+Web pages are formatted in a language called Hypertext Markup Language (HTML). It this language that allows users to click through pages on the Web via links. The Web uses HTTP protocol to transmit data and share information. Browsers such as Internet Explorer, Google Chrome or Mozilla Firefox are used to access Web documents, or Web pages, which are connected via links.
+
+The Web is just one of the ways that information is shared over the Internet; others include email, instant messaging and File Transfer Protocol (FTP).
+>
+What is www?
+World Wide Web, which is also known as a Web, is a collection of websites or web pages stored in web servers and connected to local computers through the internet. These websites contain text pages, digital images, audios, videos, etc. Users can access the content of these sites from any part of the world over the internet using their devices such as computers, laptops, cell phones, etc. The WWW, along with internet, enables the retrieval and display of text and media to your device.
+
+url
+A URL is a type of uniform resource identifier and is address of a resource on the World Wide Web and the protocol used to access it. It is used to indicate the location of a web resource to access the web pages.
+Web page
+A web page is a single hypertext document available on World Wide Web (WWW). It is composed of HTML elements and displayed on the user's browser such as Mozilla, Firefox, Chrome, etc. It is also referred to as "Page."
+Website
+A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.
+Server
+A server is a computer program or device that provides a service to another computer program and its user, also known as the client. In a data center, the physical computer that a server program runs on is also frequently referred to as a server. That machine might be a dedicated server or it might be used for other purposes.
+Web browser
+A web browser is a software program that allows a user to locate, access, and display web pages. In common usage, a web browser is usually shortened to "browser."
+html
+HTML is an acronym which stands for Hyper Text Markup Language which is used for creating web pages and web applications. Let's see what is meant by Hypertext Markup Language, and Web page.
+search engines
+Search Engine refers to a huge database of internet resources such as web pages, newsgroups, programs, images etc. It helps to locate information on World Wide Web.
+<
+
+
+
+
+
+
+>
+Broadcast
+1. In general, to broadcast information is to transmit it to many receivers. For example, a radio station broadcasts a signal to many listeners, and digital TV subscribers receive a signal that is broadcast by their TV provider.
+Multicast
+In computer networking, multicast is group communication where data transmission is addressed to a group of destination computers simultaneously. Multicast can be one-to-many or many-to-many distribution. 
+unicast
+In computer networking, unicast is one-to-one transmission from one point in the network to another point; that is, one sender and one receiver, each identified by a network address.
+<
+
+
+
+>
+Hub
+A hub is a common connection point, also known as a network hub, which is used for connection of devices in a network. It works as a central connection for all the devices that are connected through a hub. The hub has numerous ports.
+switch
+A switch is a piece of a physical circuitry component that governs the signal flow. Having a switch or toggle switch allows a connection to be opened or closed. When opened, the switch allows a signal or power to flow through the connection. When closed, the switch stops the flow and breaks the circuit connection. Early computers, like the Altair, use switches as a form of input for the computer.
+router
+The router is a physical or virtual internetworking device that is designed to receive, analyze, and forward data packets between computer networks. A router examines a destination IP address of a given data packet, and it uses the headers and forwarding tables to decide the best way to transfer the packets.
+bridge
+ A bridge is a type of computer network device that provides interconnection with other bridge networks that use the same protocol.
+gateway
+A gateway is a node (router) in a computer network, a key stopping point for data on its way to or from other networks. Thanks to gateways, we are able to communicate and send data back and forth. The Internet wouldn’t be any use to us without gateways (as well as a lot of other hardware and software).
+modem
+Modem is short for "Modulator-Demodulator." It is a hardware component that allows a computer or another device, such as a router or switch, to connect to the Internet. It converts or "modulates" an analog signal from a telephone or cable wire to digital data (1s and 0s) that a computer can recognize. Similarly, it converts digital data from a computer or other device into an analog signal that can be sent over standard telephone lines.
+Repeater
+In telecommunications, a repeater is an electronic device that receives a signal and retransmits it. Repeaters are used to extend transmissions so that the signal can cover longer distances or be received on the other side of an obstruction. Some types of repeaters broadcast an identical signal, but alter its method of transmission, for example, on another frequency or baud rate.
+acces point
+A wireless access point (wireless AP) is a network device that transmits and receives data over a wireless local...
+<
+
+
+
+
+>
+DNS
+he Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages. Every device connected to the internet has its own IP address, which is used by other devices to locate the device. 
+types of domain
+>>>>TLD's (Generic domain)
+.com (commercial domain)
+.org (organizations)
+.net (for network)
+.edu (education web)
+.govt (goverment)
+.mil (millitary)
+<<<<Country Domains
+.in 
+.au
+<
+
+
+
+>
+components of web browser
+User interface
+Browser engine 
+Networking
+Data storage
+Java script interpretor
+<
+
+
+
+
+
+
+
+
+
+
+
