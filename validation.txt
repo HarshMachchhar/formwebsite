@@ -2,15 +2,12 @@
 
 The internet is the global system of interconnected computer networks that uses the internet protocol suit(TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business and government networks of local global scope, linked by a broad array of electronic, wireless and optical networking technologies.
 
-
 >
 There are two main concepts that are fundamental to the way the internet functions: packets and protocols.
 Packets:
 In networking, a packet is a small segment of a larger message. Each packet contains both data and information about that data. The information about the packet's contents is known as the "header," and it goes at the front of the packet so that the receiving machine knows what to do with the packet. To understand the purpose of a packet header, think of how some consumer products come with assembly instructions.
 
 When data gets sent over the Internet, it is first broken up into smaller packets, which are then translated into bits. The packets get routed to their destination by various networking devices such as routers and switches. When the packets arrive at their destination, the receiving device reassembles the packets in order and can then use or display the data.
-
-
 
 While this took a long time for the Statue of Liberty, sending digital information in smaller pieces is extremely fast over the Internet. For instance, a photo of the Statue of Liberty stored on a web server can travel across the world one packet at a time and load on someone's computer within milliseconds.
 
@@ -52,11 +49,6 @@ search engines
 Search Engine refers to a huge database of internet resources such as web pages, newsgroups, programs, images etc. It helps to locate information on World Wide Web.
 <
 
-
-
-
-
-
 >
 Broadcast
 1. In general, to broadcast information is to transmit it to many receivers. For example, a radio station broadcasts a signal to many listeners, and digital TV subscribers receive a signal that is broadcast by their TV provider.
@@ -65,8 +57,6 @@ In computer networking, multicast is group communication where data transmission
 unicast
 In computer networking, unicast is one-to-one transmission from one point in the network to another point; that is, one sender and one receiver, each identified by a network address.
 <
-
-
 
 >
 Hub
@@ -87,9 +77,6 @@ acces point
 A wireless access point (wireless AP) is a network device that transmits and receives data over a wireless local...
 <
 
-
-
-
 >
 DNS
 he Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages. Every device connected to the internet has its own IP address, which is used by other devices to locate the device. 
@@ -106,8 +93,6 @@ types of domain
 .au
 <
 
-
-
 >
 components of web browser
 User interface
@@ -116,14 +101,3 @@ Networking
 Data storage
 Java script interpretor
 <
-
-
-
-
-
-
-
-
-
-
-
