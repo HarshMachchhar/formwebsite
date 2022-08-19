@@ -42,3 +42,13 @@ thank you.
 </button>
 </body>
 </html>
+
+here, there are more than 1 user, so, you are not only the one who is editing and pushing all the codes.
+Now, 
+one important thing to you,
+from now onwards, 
+the editing like : editing, adding, deletion, etc. 
+will be done by more than one person,
+so,
+the code will be pushed in when the main code will be kept in the main file and the changes done will also be recorded in here, in git.
+thank you.
